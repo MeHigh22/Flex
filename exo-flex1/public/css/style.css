@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+    margin-top: 20rem;
+}
+
+.flex-item {
+    background-color: rgb(80, 93, 214);
+    text-align: center;
+    margin-left: 10px;
+    padding: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: bisque;
+}
+
+

@@ -1,0 +1,31 @@
+
+.container {
+    display:flex;
+    flex-flow: wrap;
+}
+
+
+.item {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 5px;
+    background-color: lightblue;
+    height: 10rem;
+}
+
+.b1 {
+    width: 1800px;
+}
+
+.b2 {
+    width: 895px;
+}
+
+.b3 {
+    width: 593.5px;
+}
+
+.b12 {
+    width: 141px;
+}
